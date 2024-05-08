@@ -13,7 +13,12 @@ const scorevalue  = 100.5//float
 const isloggedin  = false//Boolean
 const outtemp  = null//null
 let scoreinvalid;//undefined
-
+//typeof string:string
+//typeof Number:number
+//typeof Boolean:boolean
+//typeof Symbol:symbol
+//typeof null:object
+//typeof undefined:undefined
 //Symbol : is used to define unique variable
 const x = Symbol('113') 
 const y = Symbol('113') ;
